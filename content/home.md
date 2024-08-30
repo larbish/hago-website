@@ -26,6 +26,9 @@ Have A Good One
 :home-video{url="https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&player_id=0&app_id=58479"}
 
 ::home-listing
+---
+class: mb-40
+---
 #title
 Discover our last [scripted]{.text-primary}
 
