@@ -27,6 +27,7 @@ export default defineNuxtConfig({
   },
 
   colorMode: {
+    preference: 'dark',
     disableTransition: true
   },
 

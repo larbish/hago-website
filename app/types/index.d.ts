@@ -1,15 +1,15 @@
 import type { ParsedContent } from '@nuxt/content'
-import type { Avatar, Badge, Link } from '#ui/types'
+import type { Badge, Link } from '#ui/types'
 
-export interface BlogPost extends ParsedContent {
+export interface Movie extends ParsedContent {
   title: string
   description: string
   date: string
   image?: HTMLImageElement
   badge?: Badge
-  authors?: ({
+  directors?: ({
     name: string
     description?: string
-    avatar?: Avatar
+    avatar?: { src: string }
   } & Link)[]
 }

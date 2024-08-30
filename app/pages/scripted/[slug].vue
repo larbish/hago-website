@@ -1,15 +1,15 @@
 <script setup lang="ts">
 import { withoutTrailingSlash, joinURL } from 'ufo'
-import type { BlogPost } from '~/types'
+import type { Movie } from '~/types'
 
 const route = useRoute()
 
-const { data: post } = await useAsyncData(route.path, () => queryContent<BlogPost>(route.path).findOne())
+const { data: post } = await useAsyncData(route.path, () => queryContent<Movie>(route.path).findOne())
 if (!post.value) {
   throw createError({ statusCode: 404, statusMessage: 'Post not found', fatal: true })
 }
 
-const { data: surround } = await useAsyncData(`${route.path}-surround`, () => queryContent('/blog')
+const { data: surround } = await useAsyncData(`${route.path}-surround`, () => queryContent('/scripted')
   .where({ _extension: 'md' })
   .without(['body', 'excerpt'])
   .sort({ date: -1 })
@@ -38,7 +38,7 @@ if (post.value.image?.src) {
     component: 'Saas',
     title,
     description,
-    headline: 'Blog'
+    headline: 'Scripted'
   })
 }
 </script>
@@ -60,7 +60,7 @@ if (post.value.image?.src) {
 
       <div class="flex flex-wrap items-center gap-3 mt-4">
         <UButton
-          v-for="(author, index) in post.authors"
+          v-for="(author, index) in post.directors"
           :key="index"
           :to="author.to"
           color="white"
