@@ -1,91 +1,41 @@
 <script setup lang="ts">
 const links = [{
-  label: 'Resources',
+  label: 'Have a good one',
   children: [{
-    label: 'Help center'
+    label: 'Bureau 158 Bd Pereire, 75017 Paris',
+    to: 'https://www.google.com/maps/place/158+Bd+Pereire,+75017+Paris/@48.8830574,2.2904264,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66f919cb4546f:0xcd917b622c314d3f!8m2!3d48.8830539!4d2.2930067!16s%2Fg%2F11bw4bf4c7?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D',
+    target: '_blank'
   }, {
-    label: 'Docs'
+    label: 'Fiscal 23 Rue des Jeuneurs, 75002 Paris',
+    to: 'https://www.google.com/maps/place/158+Bd+Pereire,+75017+Paris/@48.8830574,2.2904264,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66f919cb4546f:0xcd917b622c314d3f!8m2!3d48.8830539!4d2.2930067!16s%2Fg%2F11bw4bf4c7?entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D',
+    target: '_blank'
   }, {
-    label: 'Roadmap'
-  }, {
-    label: 'Changelog'
+    label: 'Contactez nous',
+    to: 'mailto:carla@hago.paris',
+    target: '_blank'
   }]
 }, {
-  label: 'Features',
+  label: 'Downloads',
   children: [{
-    label: 'Affiliates'
-  }, {
-    label: 'Portal'
-  }, {
-    label: 'Jobs'
-  }, {
-    label: 'Sponsors'
-  }]
-}, {
-  label: 'Company',
-  children: [{
-    label: 'About'
-  }, {
-    label: 'Pricing'
-  }, {
-    label: 'Careers'
-  }, {
-    label: 'Blog'
+    label: 'Line Up 2024',
+    to: 'line-up-2024.pdf',
+    as: 'a',
+    target: '_blank'
   }]
 }]
-
-const toast = useToast()
-
-const email = ref('')
-const loading = ref(false)
-
-function onSubmit() {
-  loading.value = true
-
-  setTimeout(() => {
-    toast.add({
-      title: 'Subscribed!',
-      description: 'You\'ve been subscribed to our newsletter.'
-    })
-
-    loading.value = false
-  }, 1000)
-}
 </script>
 
 <template>
   <UFooter>
     <template #top>
       <UFooterColumns :links="links">
-        <template #right>
-          <form @submit.prevent="onSubmit">
-            <UFormGroup
-              label="Subscribe to our newsletter"
-              :ui="{ container: 'mt-3' }"
-            >
-              <UInput
-                v-model="email"
-                type="email"
-                placeholder="Enter your email"
-                :ui="{ icon: { trailing: { pointer: '' } } }"
-                required
-                size="xl"
-                autocomplete="off"
-                class="max-w-sm"
-                input-class="rounded-full"
-              >
-                <template #trailing>
-                  <UButton
-                    type="submit"
-                    size="xs"
-                    color="primary"
-                    :label="loading ? 'Subscribing' : 'Subscribe'"
-                    :loading="loading"
-                  />
-                </template>
-              </UInput>
-            </UFormGroup>
-          </form>
+        <template #left>
+          <NuxtImg
+            src="logo-full.webp"
+            alt="Logo Full Have A Good One"
+            width="240"
+            height="120"
+          />
         </template>
       </UFooterColumns>
     </template>
@@ -98,15 +48,6 @@ function onSubmit() {
 
     <template #right>
       <UColorModeButton size="sm" />
-
-      <UButton
-        to="https://github.com/nuxt-ui-pro/saas"
-        target="_blank"
-        icon="i-simple-icons-github"
-        aria-label="GitHub"
-        color="gray"
-        variant="ghost"
-      />
     </template>
   </UFooter>
 </template>
