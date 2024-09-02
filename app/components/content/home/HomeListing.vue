@@ -44,7 +44,7 @@ const props = defineProps({
   }
 })
 
-const { data: posts } = await useAsyncData('posts', () => queryContent<Movie>(`/${props.type}`)
+const { data: posts } = await useAsyncData(`${props.type}-listing`, () => queryContent<Movie>(`/${props.type}`)
   .where({ _extension: 'md' })
   .limit(3)
   .sort({ date: -1 })

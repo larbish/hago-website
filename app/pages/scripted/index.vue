@@ -6,7 +6,7 @@ if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
-const { data: posts } = await useAsyncData('posts', () => queryContent<Movie>('/scripted')
+const { data: posts } = await useAsyncData('scripteds', () => queryContent<Movie>('/scripted')
   .where({ _extension: 'md' })
   .sort({ date: -1 })
   .find())
