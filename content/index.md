@@ -8,7 +8,7 @@ description: une description claire avec des mots qui vous identifie pour la rec
 Unleash [Creativity]{.text-primary}
 
 #description
-We're specialized in creating impactful scripted movies and documentaries, bringing powerful stories to life with precision and passion.
+We're specialized in creating impactful scripted series and documentaries, bringing powerful stories to life with precision and passion.
 
 #headline
 Have A Good One
@@ -23,15 +23,28 @@ Have A Good One
   :::
 ::
 
-:home-video{url="https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&player_id=0&app_id=58479"}
+::home-video
+---
+url: https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&player_id=0&app_id=58479
+---
+::
 
 ::home-listing
----
-class: mb-40
----
 #title
 Discover our last [scripted]{.text-primary}
 
 #description
 We excel in producing powerful movies, bringing real stories to life with authenticity, depth, and a commitment to uncovering the truth.
+::
+
+::home-listing
+---
+class: mb-40
+type: documentary
+---
+#title
+Discover our last [documentaries]{.text-primary}
+
+#description
+We excel in producing powerful documentaries, bringing real stories to life with authenticity, depth, and a commitment to uncovering the truth.
 ::
