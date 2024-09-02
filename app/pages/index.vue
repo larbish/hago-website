@@ -3,7 +3,7 @@ useHead({
   script: [{ src: 'https://player.vimeo.com/api/player.js', defer: true }]
 })
 
-const { data: page } = await useAsyncData('home', () => queryContent('/home').findOne())
+const { data: page } = await useAsyncData('home', () => queryContent('/').findOne())
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
