@@ -16,14 +16,11 @@ const { data: surround } = await useAsyncData(`${route.path}-surround`, () => qu
   .findSurround(withoutTrailingSlash(route.path))
 , { default: () => [] })
 
-const title = post.value.head?.title || post.value.title
-const description = post.value.head?.description || post.value.description
-
 useSeoMeta({
-  title,
-  ogTitle: title,
-  description,
-  ogDescription: description
+  title: post.value.title,
+  ogTitle: post.value.title,
+  description: post.value.description,
+  ogDescription: post.value.description
 })
 
 if (post.value.image?.src) {
@@ -32,13 +29,6 @@ if (post.value.image?.src) {
   useSeoMeta({
     ogImage: joinURL(site.url, post.value.image.src),
     twitterImage: joinURL(site.url, post.value.image.src)
-  })
-} else {
-  defineOgImage({
-    component: 'Saas',
-    title,
-    description,
-    headline: 'documentary'
   })
 }
 </script>

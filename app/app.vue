@@ -18,9 +18,18 @@ useHead({
 })
 
 useSeoMeta({
-  titleTemplate: '%s - Nuxt UI Pro - SaaS template',
-  ogImage: 'https://saas-template.nuxt.dev/social-card.png',
-  twitterImage: 'https://saas-template.nuxt.dev/social-card.png',
+  titleTemplate(title) {
+    if (!title) {
+      return 'HAVE A GOOD ONE'
+    }
+
+    return title.includes('HAVE A GOOD ONE') ? title : `${title} · HAVE A GOOD ONE`
+  },
+  viewport: 'width=device-width, initial-scale=1',
+  ogSiteName: 'Nuxt Studio',
+  ogType: 'website',
+  ogImage: `https://larbish-hago-website.nuxt.space/social-card .webp`,
+  ogImageAlt: 'HAVE A GOOD ONE',
   twitterCard: 'summary_large_image'
 })
 </script>

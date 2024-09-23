@@ -1,12 +1,12 @@
 <script setup lang="ts">
 import type { Movie } from '~/types'
 
-const { data: page } = await useAsyncData('documentary', () => queryContent('/documentary').findOne())
+const { data: page } = await useAsyncData('coproduction', () => queryContent('/coproduction').findOne())
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
 
-const { data: posts } = await useAsyncData('documentaries', () => queryContent<Movie>('/documentary')
+const { data: posts } = await useAsyncData('coproductions', () => queryContent<Movie>('/coproduction')
   .where({ _extension: 'md' })
   .sort({ date: -1 })
   .find())

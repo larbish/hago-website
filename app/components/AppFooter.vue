@@ -31,10 +31,8 @@ const links = [{
       <UFooterColumns :links="links">
         <template #left>
           <NuxtImg
-            src="logo-full.webp"
+            src="logo-full.png"
             alt="Logo Full Have A Good One"
-            width="240"
-            height="120"
           />
         </template>
       </UFooterColumns>
@@ -44,6 +42,25 @@ const links = [{
       <p class="text-gray-500 dark:text-gray-400 text-sm">
         Copyright © {{ new Date().getFullYear() }}. All rights reserved.
       </p>
+    </template>
+
+    <template #right>
+      <UButton
+        to="https://www.instagram.com/hago_tv/?locale=fr_FR&hl=en /"
+        target="_blank"
+        icon="i-simple-icons-instagram"
+        aria-label="Instagram"
+        color="gray"
+        variant="ghost"
+      />
+      <UButton
+        to="https://fr.linkedin.com/company/have-a-good-one-hago?trk=ppro_cprof"
+        target="_blank"
+        icon="i-simple-icons-linkedin"
+        aria-label="Linkedin"
+        color="gray"
+        variant="ghost"
+      />
     </template>
   </UFooter>
 </template>

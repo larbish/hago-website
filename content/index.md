@@ -1,6 +1,6 @@
 ---
-title: un titre claire de ce qu'est HAGO entre 40 et 60 caractères
-description: une description claire avec des mots qui vous identifie pour la recherche sur google, entre 130 et 160 caractères
+title: HAVE A GOOD ONE - Distribution company
+description: A distribution company aiming to develop, co-produce and export french and international series, documentary and features films.
 ---
 
 ::home-hero
