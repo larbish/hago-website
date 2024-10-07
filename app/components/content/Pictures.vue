@@ -1,6 +1,6 @@
 <template>
   <div
-    class="grid items-center justify-between"
+    class="grid items-center justify-between space-x-4"
     :class="`grid-cols-${cols}`"
   >
     <div>
