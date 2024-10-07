@@ -6,7 +6,7 @@
       class="py-[50px]"
     />
     <UPageBody>
-      <UBlogList :ui="{ wrapper: 'grid-cols-1 md:grid-cols-2 lg:grid-cols-5' }">
+      <UBlogList :ui="{ wrapper: 'grid grid-cols-2 lg:grid-cols-5' }">
         <UBlogPost
           v-for="member in members"
           :key="member.name"
