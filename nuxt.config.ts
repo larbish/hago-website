@@ -26,11 +26,6 @@ export default defineNuxtConfig({
     icons: ['heroicons', 'simple-icons']
   },
 
-  colorMode: {
-    preference: 'dark',
-    disableTransition: true
-  },
-
   routeRules: {
     // Temporary workaround for prerender regression. see https://github.com/nuxt/nuxt/issues/27490
     '/': { prerender: true },

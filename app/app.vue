@@ -17,6 +17,10 @@ useHead({
   }
 })
 
+definePageMeta({
+  colorMode: 'dark'
+})
+
 useSeoMeta({
   titleTemplate(title) {
     if (!title) {
@@ -26,7 +30,7 @@ useSeoMeta({
     return title.includes('HAVE A GOOD ONE') ? title : `${title} · HAVE A GOOD ONE`
   },
   viewport: 'width=device-width, initial-scale=1',
-  ogSiteName: 'Nuxt Studio',
+  ogSiteName: 'HAVE A GOOD ONE',
   ogType: 'website',
   ogImage: `https://larbish-hago-website.nuxt.space/social-card .webp`,
   ogImageAlt: 'HAVE A GOOD ONE',
