@@ -37,7 +37,7 @@ const links = [{
 
     <template #panel>
       <UNavigationTree
-        :links="mapContentNavigation(navigation)"
+        :links="mapContentNavigation(navigation).filter(link => link.to !== '/')"
         default-open
       />
     </template>
