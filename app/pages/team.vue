@@ -18,7 +18,37 @@
       </UBlogList>
       <ULandingLogos
         class="mt-32"
-        title="We work with them"
+        title="Production partners"
+        align="center"
+      >
+        <UIcon
+          name="i-simple-icons-github"
+          class="w-10 h-10 flex-shrink-0"
+        />
+        <UIcon
+          name="i-simple-icons-discord"
+          class="w-10 h-10 flex-shrink-0"
+        />
+        <UIcon
+          name="i-simple-icons-x"
+          class="w-10 h-10 flex-shrink-0"
+        />
+        <UIcon
+          name="i-simple-icons-instagram"
+          class="w-10 h-10 flex-shrink-0"
+        />
+        <UIcon
+          name="i-simple-icons-linkedin"
+          class="w-10 h-10 flex-shrink-0"
+        />
+        <UIcon
+          name="i-simple-icons-facebook"
+          class="w-10 h-10 flex-shrink-0"
+        />
+      </ULandingLogos>
+      <ULandingLogos
+        class="mt-32"
+        title="Broadcaster partners"
         align="center"
       >
         <UIcon

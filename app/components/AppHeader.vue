@@ -23,6 +23,7 @@ const links = [{
     <template #logo>
       <div class="flex items-center">
         <NuxtImg
+          class="rotate-90"
           src="logo.png"
           alt="Logo Full Have A Good One"
           width="50"
