@@ -9,20 +9,19 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/ui',
     '@nuxthq/studio',
-    '@vueuse/nuxt'
+    '@vueuse/nuxt',
+    '@nuxtjs/seo'
   ],
 
-  hooks: {
-    // Define `@nuxt/ui` components as global to use them in `.md` (feel free to add those you need)
-    'components:extend': (components) => {
-      const globals = components.filter(c => ['UButton'].includes(c.pascalName))
-
-      globals.forEach(c => c.global = true)
-    }
+  devtools: {
+    enabled: true
   },
 
-  ui: {
-    icons: ['heroicons', 'simple-icons']
+  site: {
+    url: 'https://larbish-hago-website.nuxt.space/',
+    name: 'Have A Good One',
+    description: 'Have A Good One official website',
+    defaultLocale: 'en'
   },
 
   colorMode: {
@@ -37,16 +36,23 @@ export default defineNuxtConfig({
     '/docs': { redirect: '/docs/getting-started', prerender: false }
   },
 
-  devtools: {
-    enabled: true
+  future: {
+    compatibilityVersion: 4
   },
+
+  compatibilityDate: '2024-07-11',
 
   typescript: {
     strict: false
   },
 
-  future: {
-    compatibilityVersion: 4
+  hooks: {
+    // Define `@nuxt/ui` components as global to use them in `.md` (feel free to add those you need)
+    'components:extend': (components) => {
+      const globals = components.filter(c => ['UButton'].includes(c.pascalName))
+
+      globals.forEach(c => c.global = true)
+    }
   },
 
   eslint: {
@@ -58,5 +64,9 @@ export default defineNuxtConfig({
     }
   },
 
-  compatibilityDate: '2024-07-11'
+  icons: {
+    clientBundle: {
+      scan: true
+    }
+  }
 })

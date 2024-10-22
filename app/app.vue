@@ -17,12 +17,8 @@ useHead({
   }
 })
 
-definePageMeta({
-  colorMode: 'dark'
-})
-
 useSeoMeta({
-  titleTemplate(title) {
+  titleTemplate: (title) => {
     if (!title) {
       return 'HAVE A GOOD ONE'
     }
