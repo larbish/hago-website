@@ -21,11 +21,15 @@ Have A Good One
   :::u-button{color="gray" size="lg" to="/documentary" variant="ghost"}
   Documentary
   :::
+
+  :::u-button{color="gray" size="lg" to="/coproduction" variant="ghost"}
+  Co-productions
+  :::
 ::
 
 ::home-video
 ---
-url: https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&player_id=0&app_id=58479
+url: https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&player_id=0&app_id=58479&byline=0&title=0
 ---
 ::
 
