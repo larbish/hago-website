@@ -234,11 +234,17 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/coproduction/jttm</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/scripted/Killed-couv.jpeg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/coproduction/marinette</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/scripted/Marinette-couv.jpeg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/Tribeca.png</image:loc>
         </image:image>
@@ -246,11 +252,17 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/documentary/melanin</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/Documentaries/regardnoir-Couv.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/Canal-logo.jpg</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/documentary/sammy-by-sammy</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/Documentaries/Sammy-couv.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
         </image:image>
@@ -258,17 +270,26 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/documentary/the-revolution-of-intimacy-coordinators</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/Documentaries/Sex-couv.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/documentary/the-state-of-texas-vs.-melissa</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/Documentaries/etat-du-texas-contre.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/hulu-logo.png</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/bellefond-copy</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Bellefond-couv.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
         </image:image>
@@ -279,6 +300,9 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/blood-river</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/BloodRiver-couv-min.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/Arte.png</image:loc>
         </image:image>
         <image:image>
@@ -288,11 +312,17 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/caronostra</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Caro-couv.jpeg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
         </image:image>
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/elleskitchen</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/EllesKitchen-couv-min.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
         </image:image>
@@ -303,6 +333,9 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/fake</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Fake-couv.jpeg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
         </image:image>
         <image:image>
@@ -311,6 +344,9 @@
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/i-killed-my-husband</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Ikilled-couv.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
         </image:image>
@@ -321,6 +357,9 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/knok</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Knok-couv-min.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
         </image:image>
         <image:image>
@@ -329,6 +368,9 @@
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/lt-21</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/LT21-couv.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
         </image:image>
@@ -339,6 +381,9 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/marion</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Marion-couv-min.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
         </image:image>
         <image:image>
@@ -347,6 +392,9 @@
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/not-for-me</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Notforme-couv.jpeg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
         </image:image>
@@ -357,6 +405,9 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/rictus</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Rictus-couv-min.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
         </image:image>
         <image:image>
@@ -365,6 +416,9 @@
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/sex-(re)education</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Sexreeducation-couv.jpg</image:loc>
+        </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
         </image:image>
@@ -375,6 +429,9 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/split</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Split.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
         </image:image>
         <image:image>
@@ -384,8 +441,11 @@
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/when-the-night-comes</loc>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Thenight-couv.jpeg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.0.0 at 2024-12-02T06:24:45.013Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.0.0 at 2024-12-02T06:47:04.460Z -->
