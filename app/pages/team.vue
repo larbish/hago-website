@@ -21,59 +21,25 @@
         title="Production partners"
         align="center"
       >
-        <UIcon
-          name="i-simple-icons-github"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-discord"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-x"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-instagram"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-linkedin"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-facebook"
-          class="w-10 h-10 flex-shrink-0"
+        <NuxtImg
+          v-for="production in productions"
+          :key="production.src"
+          :src="production.src"
+          :alt="production.alt"
+          width="50"
         />
       </ULandingLogos>
       <ULandingLogos
         class="mt-32"
-        title="Broadcaster partners"
+        title="Boradcasters partners"
         align="center"
       >
-        <UIcon
-          name="i-simple-icons-github"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-discord"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-x"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-instagram"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-linkedin"
-          class="w-10 h-10 flex-shrink-0"
-        />
-        <UIcon
-          name="i-simple-icons-facebook"
-          class="w-10 h-10 flex-shrink-0"
+        <NuxtImg
+          v-for="broadcaster in broadcasters"
+          :key="broadcaster.src"
+          :src="broadcaster.src"
+          :alt="broadcaster.alt"
+          width="50"
         />
       </ULandingLogos>
     </UPageBody>
@@ -124,4 +90,114 @@ const members = [{
     src: 'https://placehold.co/300x400?text=TODO'
   }
 }]
+
+const broadcasters = [
+  {
+    src: '/broadcasters/aragontv.png',
+    alt: 'Aragon TV logo'
+  },
+  {
+    src: '/broadcasters/betv.jpg',
+    alt: 'Be TV logo'
+  },
+  {
+    src: '/broadcasters/etbsat.png',
+    alt: 'ETB Sat logo'
+  },
+  {
+    src: '/broadcasters/proximus.png',
+    alt: 'Proximus logo'
+  },
+  {
+    src: '/broadcasters/radiocanada.jpg',
+    alt: 'Radio Canada logo'
+  },
+  {
+    src: '/broadcasters/rtlcrime.png',
+    alt: 'RTL Crime logo'
+  },
+  {
+    src: '/broadcasters/rts.jpg',
+    alt: 'RTS logo'
+  },
+  {
+    src: '/broadcasters/telequebec.jpg',
+    alt: 'Télé Québeclogo'
+  },
+  {
+    src: '/broadcasters/tf1.jpg',
+    alt: 'TF1 logo'
+  },
+  {
+    src: '/broadcasters/rtlpassion.png',
+    alt: 'RTL Passion logo'
+  },
+  {
+    src: '/broadcasters/rtlvi.png',
+    alt: 'RTL vi logo'
+  },
+  {
+    src: '/broadcasters/tv5.jpg',
+    alt: 'TV5 logo'
+  },
+  {
+    src: '/broadcasters/walterpresent.png',
+    alt: 'Walter Present logo'
+  },
+  {
+    src: '/broadcasters/ylen.png',
+    alt: 'YLEN logo'
+  }
+]
+
+const productions = [
+  {
+    src: '/productions/amedia.png',
+    alt: 'Amedia logo'
+  },
+  {
+    src: '/productions/beaubourgstories.png',
+    alt: 'Beaubourg Stories logo'
+  },
+  {
+    src: '/productions/bigbandstory.jpg',
+    alt: 'Big Band Story logo'
+  },
+  {
+    src: '/productions/cropped.png',
+    alt: 'cropped logo'
+  },
+  {
+    src: '/productions/elephant.png',
+    alt: 'elephant logo'
+  },
+  {
+    src: '/productions/empreinte-digitale.png',
+    alt: 'empreinte digitale logo'
+  },
+  {
+    src: '/productions/encompagniedeslamas.png',
+    alt: 'en compagnie des lamas logo'
+  },
+  {
+    src: '/productions/n22.png',
+    alt: 'n22'
+  },
+  {
+    src: '/productions/opengraph.jpg',
+    alt: 'opengraph logo'
+  },
+  {
+    src: '/productions/storyplus.png',
+    alt: 'story plus logo'
+  },
+  {
+    src: '/productions/unefille.png',
+    alt: 'une fille logo'
+  },
+  {
+    src: '/productions/vigofilm.png',
+    alt: 'vigo film logo'
+  }
+]
 </script>

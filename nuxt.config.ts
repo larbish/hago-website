@@ -64,8 +64,15 @@ export default defineNuxtConfig({
     }
   },
 
-  icons: {
+  icon: {
     clientBundle: {
+      icons: [
+        'heroicons:hashtag-20-solid',
+        'heroicons:chevron-down-20-solid',
+        'heroicons:arrow-right-20-solid',
+        'heroicons:arrow-left-20-solid',
+        'heroicons:bars-3-20-solid'
+      ],
       scan: true
     }
   }
