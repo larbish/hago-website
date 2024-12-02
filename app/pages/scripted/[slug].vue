@@ -38,7 +38,21 @@ if (post.value.image?.src) {
     <UPageHeader
       :title="post.title"
       :description="post.description"
+      :ui="{
+        icon: {
+          wrapper: 'w-full sm:w-auto flex justify-center'
+        }
+      }"
     >
+      <template #icon>
+        <NuxtImg
+          v-if="post.image?.src"
+          :src="post.image.src"
+          :alt="post.image.alt"
+          width="300"
+        />
+      </template>
+
       <template #headline>
         <UBadge
           v-bind="post.badge"
