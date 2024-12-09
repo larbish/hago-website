@@ -36,7 +36,7 @@ url: https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&p
 
 ::home-listing
 #title
-Discover our last [scripted]{.text-primary}
+Discover our newest [scripted]{.text-primary}
 
 #description
 We excel in producing powerful movies, bringing real stories to life with authenticity, depth, and a commitment to uncovering the truth.
@@ -48,8 +48,8 @@ class: mb-40
 type: documentary
 ---
 #title
-Discover our last [documentaries]{.text-primary}
+Discover our newest [documentaries]{.text-primary}
 
 #description
-We excel in producing powerful documentaries, bringing real stories to life with authenticity, depth, and a commitment to uncovering the truth.
+We are interested in bringing to you striking documentaries on societal and cultural subjects.
 ::
