@@ -39,7 +39,7 @@ url: https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&p
 Discover our newest [scripted]{.text-primary}
 
 #description
-We excel in producing powerful movies, bringing real stories to life with authenticity, depth, and a commitment to uncovering the truth.
+We excel in distributing powerful series and movies, making them accessible around the world.
 ::
 
 ::home-listing
