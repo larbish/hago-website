@@ -1,14 +1,15 @@
 ---
 title: HAVE A GOOD ONE - Distribution company
-description: A distribution company aiming to develop, co-produce and export french and international series, documentary and features films.
+description: A distribution company aiming to develop, co-produce and export
+  french and international series, documentary and features films.
 ---
 
 ::home-hero
 #title
-Unleash [Creativity]{.text-primary}
+International Sales
 
 #description
-We're specialized in creating impactful scripted series and documentaries, bringing powerful stories to life with precision and passion.
+We're specialized in distributing impactful scripted series, feature films and documentaries, and we aim to produce programs as well.
 
 #headline
 Have A Good One
