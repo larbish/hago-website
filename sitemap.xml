@@ -15,10 +15,7 @@
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/BloodRiver-couv-min.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Arte.png</image:loc>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond-couv.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/Documentaries/Sex-couv.jpg</image:loc>
@@ -96,6 +93,9 @@
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond-couv.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/BloodRiver-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
@@ -138,13 +138,16 @@
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/EllesKitchen-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond-couv.jpg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Ikilled-couv.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Affiches-site16-min%20(1).jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Canal-logo.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -300,7 +303,16 @@
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond-couv.jpg</image:loc>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond2.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond4.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond3.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond1.jpeg</image:loc>
         </image:image>
     </url>
     <url>
@@ -312,7 +324,28 @@
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/Arte.png</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Blood3.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Blood1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Blood2.jpg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/blood-river.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://larbish-hago-website.nuxt.space/scripted/bros</loc>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Affiches-site16-min%20(1).jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Canal-logo.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/frerots-1.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -331,6 +364,12 @@
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Kitchen1.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Kitchen4.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/CUISINE-INTERNE.jpg</image:loc>
@@ -357,7 +396,16 @@
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Ikilledmyhusband.jpg</image:loc>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed3.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed4.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed2.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -367,6 +415,15 @@
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok4.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok2.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok.jpg</image:loc>
@@ -381,7 +438,16 @@
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT21-couv.jpg</image:loc>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT211.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT212.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT215.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT214.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -391,6 +457,15 @@
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/Tribeca.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marinette2.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marinette1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marinette4.jpg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/coproductions/Marinette.jpg</image:loc>
@@ -405,7 +480,16 @@
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion-couv-min.jpg</image:loc>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion4.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion3.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion2.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion1.jpeg</image:loc>
         </image:image>
     </url>
     <url>
@@ -416,9 +500,6 @@
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
         </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Notforme-couv.jpeg</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://larbish-hago-website.nuxt.space/scripted/rictus</loc>
@@ -427,6 +508,15 @@
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Rictus2.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Rictus3.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Rictus4.jpeg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/rictus.jpg</image:loc>
@@ -441,6 +531,15 @@
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/7eciel3.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/7eciel2.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/7eciel4.jpeg</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Septieme-Ciel.jpg</image:loc>
         </image:image>
     </url>
@@ -451,9 +550,6 @@
         </image:image>
         <image:image>
             <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Split.jpg</image:loc>
         </image:image>
     </url>
     <url>
@@ -466,4 +562,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.0.0 at 2024-12-09T10:04:11.289Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.0.0 at 2024-12-09T16:35:33.278Z -->
