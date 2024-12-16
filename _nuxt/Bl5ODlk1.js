@@ -1,0 +1,1 @@
+import{k as r,c as n,e as o,ag as s}from"./DCkD55bx.js";const t={};function a(e,c){return n(),o("strong",null,[s(e.$slots,"default")])}const _=Object.assign(r(t,[["render",a]]),{__name:"ProseStrong"});export{_ as default};

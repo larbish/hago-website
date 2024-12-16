@@ -1,1 +1,0 @@
-import{k as a,c as s,e as r,ag as t}from"./Bmw2tGpb.js";const n={};function o(e,c){return s(),r("thead",null,[t(e.$slots,"default")])}const _=Object.assign(a(n,[["render",o]]),{__name:"ProseThead"});export{_ as default};
