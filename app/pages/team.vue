@@ -61,13 +61,13 @@ useSeoMeta({
 
 const members = [{
   name: 'Constantin Briest',
-  description: 'CEO',
+  description: 'CEO & co-founder',
   avatar: {
     src: '/team/constantin.webp'
   }
 }, {
   name: 'Virginie Boireaux',
-  description: 'DG',
+  description: 'MG & co-founder',
   avatar: {
     src: '/team/virginie.webp'
   }
@@ -79,13 +79,13 @@ const members = [{
   }
 }, {
   name: 'Carla Alis',
-  description: 'Assistante à la distribution',
+  description: 'Administrative & Finance Assistant',
   avatar: {
     src: 'https://placehold.co/300x400?text=TODO'
   }
 }, {
   name: 'Nina Phillips',
-  description: 'Marketing',
+  description: 'Marketing & Communication',
   avatar: {
     src: 'https://placehold.co/300x400?text=TODO'
   }
