@@ -31,7 +31,7 @@
       </ULandingLogos>
       <ULandingLogos
         class="mt-32"
-        title="Boradcasters partners"
+        title="Broadcasters partners"
         align="center"
       >
         <NuxtImg
