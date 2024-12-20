@@ -63,31 +63,36 @@ const members = [{
   name: 'Constantin Briest',
   description: 'CEO & co-founder',
   avatar: {
-    src: '/team/constantin.webp'
+    src: '/team/constantin.jpeg',
+    alt: 'Constantin Briest'
   }
 }, {
   name: 'Virginie Boireaux',
   description: 'MG & co-founder',
   avatar: {
-    src: '/team/virginie.webp'
+    src: '/team/virginie.webp',
+    alt: 'Virginie Boireaux'
   }
 }, {
   name: 'Marie Besançon',
   description: 'Buisness Affairs',
   avatar: {
-    src: 'https://placehold.co/300x400?text=TODO'
+    src: '/team/marie.jpeg',
+    alt: 'Marie Besançon'
   }
 }, {
   name: 'Carla Alis',
   description: 'Administrative & Finance Assistant',
   avatar: {
-    src: 'https://placehold.co/300x400?text=TODO'
+    src: '/team/carla.jpeg',
+    alt: 'Carla Alis'
   }
 }, {
   name: 'Nina Phillips',
   description: 'Marketing & Communication',
   avatar: {
-    src: 'https://placehold.co/300x400?text=TODO'
+    src: '/team/nina.jpeg',
+    alt: 'Nina Phillips'
   }
 }]
 
