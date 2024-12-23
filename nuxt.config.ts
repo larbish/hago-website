@@ -18,7 +18,7 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: 'https://larbish-hago-website.nuxt.space/',
+    url: 'https://hago.paris',
     name: 'Have A Good One',
     description: 'Have A Good One official website',
     defaultLocale: 'en'

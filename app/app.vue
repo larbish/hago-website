@@ -28,7 +28,7 @@ useSeoMeta({
   viewport: 'width=device-width, initial-scale=1',
   ogSiteName: 'HAVE A GOOD ONE',
   ogType: 'website',
-  ogImage: `https://larbish-hago-website.nuxt.space/social-card .webp`,
+  ogImage: `social-card.webp`,
   ogImageAlt: 'HAVE A GOOD ONE',
   twitterCard: 'summary_large_image'
 })
