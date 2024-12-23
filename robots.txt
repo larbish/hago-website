@@ -1,5 +1,5 @@
 # START nuxt-robots (indexable)
 User-agent: *
 
-Sitemap: https://larbish-hago-website.nuxt.space/sitemap.xml
+Sitemap: https://hago.paris/sitemap.xml
 # END nuxt-robots

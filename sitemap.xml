@@ -1,583 +1,583 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/</loc>
+        <loc>https://hago.paris/</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Fake-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Fake-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Thenight-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Thenight-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/France-TV.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Bellefond-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/Documentaries/Sex-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/Documentaries/Sex-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
+            <image:loc>https://hago.paris/avatars/France-TVSlash.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/Documentaries/Sammy-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/Documentaries/Sammy-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/Documentaries/etat-du-texas-contre.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/Documentaries/etat-du-texas-contre.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/hulu-logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/coproduction</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT21-couv.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed-couv.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/hulu-logo.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/documentary</loc>
+        <loc>https://hago.paris/coproduction</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/Documentaries/Sex-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/LT21-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/Documentaries/Sammy-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Killed-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/Documentaries/etat-du-texas-contre.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/hulu-logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/Documentaries/regardnoir-Couv.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Canal-logo.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted</loc>
+        <loc>https://hago.paris/documentary</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Fake-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/Documentaries/Sex-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/France-TVSlash.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Thenight-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/Documentaries/Sammy-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/Documentaries/etat-du-texas-contre.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/BloodRiver-couv-min.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/hulu-logo.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Arte.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/Documentaries/regardnoir-Couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok-couv-min.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Split.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT21-couv.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Rictus-couv-min.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Sexreeducation-couv.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marinette-couv.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Tribeca.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Caro-couv.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Notforme-couv.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/EllesKitchen-couv-min.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion-couv-min.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Ikilled-couv.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Affiches-site16-min%20(1).jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Canal-logo.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/Canal-logo.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/team</loc>
+        <loc>https://hago.paris/scripted</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/team/constantin.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Fake-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/team/virginie.webp</image:loc>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/team/marie.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Thenight-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/team/carla.jpeg</image:loc>
+            <image:loc>https://hago.paris/avatars/France-TV.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/team/nina.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Bellefond-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/amedia.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/BloodRiver-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/beaubourgstories.png</image:loc>
+            <image:loc>https://hago.paris/avatars/Arte.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/bigbandstory.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Knok-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/cropped.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Split.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/elephant.png</image:loc>
+            <image:loc>https://hago.paris/avatars/France-TVSlash.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/empreinte-digitale.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/LT21-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/encompagniedeslamas.png</image:loc>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/n22.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Rictus-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/opengraph.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Sexreeducation-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/storyplus.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marinette-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/unefille.png</image:loc>
+            <image:loc>https://hago.paris/avatars/Tribeca.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/productions/vigofilm.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Caro-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/aragontv.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Notforme-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/betv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/EllesKitchen-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/etbsat.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marion-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/proximus.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Ikilled-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/radiocanada.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Affiches-site16-min%20(1).jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/rtlcrime.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/rts.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/telequebec.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/tf1.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/rtlpassion.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/rtlvi.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/tv5.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/walterpresent.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_50/broadcasters/ylen.png</image:loc>
+            <image:loc>https://hago.paris/avatars/Canal-logo.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/coproduction/jttm</loc>
+        <loc>https://hago.paris/team</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/scripted/Killed-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/team/constantin.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/coproduction/lt-21</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/scripted/LT21-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/team/virginie.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/documentary/melanin</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/Documentaries/regardnoir-Couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/team/marie.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Canal-logo.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/documentary/sammy-by-sammy</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/Documentaries/Sammy-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/team/carla.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/documentary/the-revolution-of-intimacy-coordinators</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/Documentaries/Sex-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/team/nina.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/documentary/the-state-of-texas-vs.-melissa</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_200/Documentaries/etat-du-texas-contre.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/amedia.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/hulu-logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/bellefond-copy</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Bellefond-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/beaubourgstories.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/bigbandstory.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond2.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/cropped.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond4.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/elephant.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond3.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/empreinte-digitale.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Bellefond1.jpeg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/blood-river</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/BloodRiver-couv-min.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/encompagniedeslamas.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Arte.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/n22.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Blood3.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/opengraph.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Blood1.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/storyplus.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Blood2.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/unefille.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/blood-river.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/bros</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Affiches-site16-min%20(1).jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/productions/vigofilm.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Canal-logo.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/aragontv.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/frerots-1.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/betv.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/etbsat.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/proximus.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/radiocanada.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/rtlcrime.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/rts.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/telequebec.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/tf1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/rtlpassion.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/rtlvi.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/tv5.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/walterpresent.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_50/broadcasters/ylen.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/caronostra</loc>
+        <loc>https://hago.paris/coproduction/jttm</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Caro-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_200/scripted/Killed-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Caro4.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Caro3.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Caro2.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Caro1.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/elleskitchen</loc>
+        <loc>https://hago.paris/coproduction/lt-21</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/EllesKitchen-couv-min.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_200/scripted/LT21-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Kitchen1.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Kitchen4.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/CUISINE-INTERNE.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/fake</loc>
+        <loc>https://hago.paris/documentary/melanin</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Fake-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_200/Documentaries/regardnoir-Couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Fake-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/avatars/Canal-logo.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/i-killed-my-husband</loc>
+        <loc>https://hago.paris/documentary/sammy-by-sammy</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Ikilled-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_200/Documentaries/Sammy-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed1.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed3.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed4.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Killed2.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/knok</loc>
+        <loc>https://hago.paris/documentary/the-revolution-of-intimacy-coordinators</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Knok-couv-min.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_200/Documentaries/Sex-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok4.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok1.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok2.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Knok.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/France-TVSlash.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/lt-21</loc>
+        <loc>https://hago.paris/documentary/the-state-of-texas-vs.-melissa</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/LT21-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_200/Documentaries/etat-du-texas-contre.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT211.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT212.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT215.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/LT214.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/hulu-logo.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/marinette</loc>
+        <loc>https://hago.paris/scripted/bellefond-copy</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Marinette-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Bellefond-couv.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/Tribeca.png</image:loc>
+            <image:loc>https://hago.paris/avatars/France-TV.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marinette2.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Bellefond2.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marinette1.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Bellefond4.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marinette4.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Bellefond3.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/coproductions/Marinette.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/marion</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Marion-couv-min.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/13e-Rue.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion4.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion3.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion2.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Marion1.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Bellefond1.jpeg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/not-for-me</loc>
+        <loc>https://hago.paris/scripted/blood-river</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Notforme-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/BloodRiver-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/rictus</loc>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Rictus-couv-min.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/Arte.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Blood3.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Rictus2.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Blood1.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Rictus3.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Blood2.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Rictus4.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/rictus.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/blood-river.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/sex-(re)education</loc>
+        <loc>https://hago.paris/scripted/bros</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Sexreeducation-couv.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Affiches-site16-min%20(1).jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/OCS.png</image:loc>
+            <image:loc>https://hago.paris/avatars/Canal-logo.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/7eciel3.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/7eciel2.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/7eciel4.jpeg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/_/scripted/Septieme-Ciel.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/_/scripted/frerots-1.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/split</loc>
+        <loc>https://hago.paris/scripted/caronostra</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Split.jpg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Caro-couv.jpeg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TVSlash.png</image:loc>
+            <image:loc>https://hago.paris/avatars/France-TVSlash.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Caro4.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Caro3.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Caro2.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Caro1.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://larbish-hago-website.nuxt.space/scripted/when-the-night-comes</loc>
+        <loc>https://hago.paris/scripted/elleskitchen</loc>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/_ipx/w_300/scripted/Thenight-couv.jpeg</image:loc>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/EllesKitchen-couv-min.jpg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://larbish-hago-website.nuxt.space/avatars/France-TV.jpg</image:loc>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Kitchen1.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Kitchen4.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/CUISINE-INTERNE.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/fake</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Fake-couv.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Fake-couv.jpeg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/i-killed-my-husband</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Ikilled-couv.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Killed1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Killed3.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Killed4.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Killed2.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/knok</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Knok-couv-min.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Knok4.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Knok1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Knok2.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Knok.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/lt-21</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/LT21-couv.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/LT211.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/LT212.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/LT215.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/LT214.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/marinette</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Marinette-couv.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/Tribeca.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marinette2.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marinette1.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marinette4.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/coproductions/Marinette.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/marion</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Marion-couv-min.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/13e-Rue.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marion4.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marion3.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marion2.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Marion1.jpeg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/not-for-me</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Notforme-couv.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/France-TV.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/rictus</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Rictus-couv-min.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Rictus2.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Rictus3.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Rictus4.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/rictus.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/sex-(re)education</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Sexreeducation-couv.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/OCS.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/7eciel3.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/7eciel2.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/7eciel4.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/_/scripted/Septieme-Ciel.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/split</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Split.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/France-TVSlash.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://hago.paris/scripted/when-the-night-comes</loc>
+        <image:image>
+            <image:loc>https://hago.paris/_ipx/w_300/scripted/Thenight-couv.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://hago.paris/avatars/France-TV.jpg</image:loc>
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.0.0 at 2024-12-20T08:48:38.851Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.0.0 at 2024-12-23T11:17:05.060Z -->
