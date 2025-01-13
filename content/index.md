@@ -43,7 +43,6 @@ url: https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&p
 Our latest [scripted]{.text-primary}
 
 #description
-We excel in distributing powerful series and movies, making them accessible around the world.
 ::
 
 ::home-listing
@@ -55,5 +54,4 @@ type: documentary
 Our lastest [documentaries]{.text-primary}
 
 #description
-We are interested in bringing to you striking documentaries on societal and cultural subjects.
 ::
