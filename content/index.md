@@ -6,10 +6,14 @@ description: A distribution company aiming to develop, co-produce and export
 
 ::home-hero
 #title
-International Sales
+International Sales & Distribution
 
 #description
-We're specialized in distributing impactful scripted series, feature films and documentaries, and we aim to produce programs as well.
+Have A Good One specializes in distributing impactful scripted series, films, and documentaries.
+
+We also support and advise talents and producers on projects at any stage: development, commissioning, international financing, and production.
+
+_“Our goal is to position ourselves on projects where our input makes sense, adds value, and aligns with our passion for the concepts and the people behind them."_
 
 #headline
 Have A Good One
