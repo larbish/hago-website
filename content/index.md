@@ -16,19 +16,6 @@ Have A Good One specializes in distributing impactful scripted series, films, an
 
 #headline
 Have A Good One
-
-#links
-  :::u-button{color="gray" size="lg" to="/scripted" variant="ghost"}
-  Scripted
-  :::
-
-  :::u-button{color="gray" size="lg" to="/documentary" variant="ghost"}
-  Documentary
-  :::
-
-  :::u-button{color="gray" size="lg" to="/coproduction" variant="ghost"}
-  Co-productions
-  :::
 ::
 
 ::home-video
