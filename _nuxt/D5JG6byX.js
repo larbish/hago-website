@@ -1,1 +1,0 @@
-import{k as o,c as s,e as r,ag as t}from"./DiTxd4Vd.js";const n={};function a(e,c){return s(),r("tbody",null,[t(e.$slots,"default")])}const _=Object.assign(o(n,[["render",a]]),{__name:"ProseTbody"});export{_ as default};
