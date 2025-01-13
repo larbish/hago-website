@@ -13,7 +13,7 @@ Have A Good One specializes in distributing impactful scripted series, films, an
 
 We also support and advise talents and producers on projects at any stage: development, commissioning, international financing, and production.
 
-_“Our goal is to position ourselves on projects where our input makes sense, adds value, and aligns with our passion for the concepts and the people behind them."_
+1. _“Our goal is to position ourselves on projects where our input makes sense, adds value, and aligns with our passion for the concepts and the people behind them."_
 
 #headline
 Have A Good One
@@ -40,7 +40,7 @@ url: https://player.vimeo.com/video/768654793?h=ea6265523c&badge=0&autopause=0&p
 
 ::home-listing
 #title
-Discover our newest [scripted]{.text-primary}
+Our latest [scripted]{.text-primary}
 
 #description
 We excel in distributing powerful series and movies, making them accessible around the world.
@@ -52,7 +52,7 @@ class: mb-40
 type: documentary
 ---
 #title
-Discover our newest [documentaries]{.text-primary}
+Our lastest [documentaries]{.text-primary}
 
 #description
 We are interested in bringing to you striking documentaries on societal and cultural subjects.
