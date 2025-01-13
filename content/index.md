@@ -11,9 +11,8 @@ International Sales & Distribution
 #description
 Have A Good One specializes in distributing impactful scripted series, films, and documentaries.
 
-We also support and advise talents and producers on projects at any stage: development, commissioning, international financing, and production.
-
-1. _“Our goal is to position ourselves on projects where our input makes sense, adds value, and aligns with our passion for the concepts and the people behind them."_
+1. We also support and advise talents and producers on projects at any stage: development, commissioning, international financing, and production.
+2. _“Our goal is to position ourselves on projects where our input makes sense, adds value, and aligns with our passion for the concepts and the people behind them."_
 
 #headline
 Have A Good One
