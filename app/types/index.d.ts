@@ -7,6 +7,10 @@ export interface Movie extends ParsedContent {
   date: string
   image?: HTMLImageElement
   badge?: Badge
+  discover?: {
+    label: string
+    to: stirng
+  }[]
   directors?: ({
     name: string
     description?: string
