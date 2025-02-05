@@ -13,8 +13,8 @@ const { data: surround } = await useAsyncData(`${route.path}-surround`, () => qu
   .where({ _extension: 'md' })
   .without(['body', 'excerpt'])
   .sort({ date: -1 })
-  .findSurround(withoutTrailingSlash(route.path))
-, { default: () => [] })
+  .findSurround(withoutTrailingSlash(route.path)),
+{ default: () => [] })
 
 useSeoMeta({
   title: post.value.title,
@@ -89,9 +89,11 @@ if (post.value.image?.src) {
       </UPageBody>
 
       <template #right>
-        <UContentToc
-          v-if="post.body && post.body.toc"
-          :links="post.body.toc.links"
+        <UPageLinks
+          v-if="post.discover"
+          class="py-3 lg:py-8"
+          :links="post.discover"
+          title="Discover"
         />
       </template>
     </UPage>

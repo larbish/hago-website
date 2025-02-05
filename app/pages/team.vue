@@ -16,30 +16,67 @@
           :ui="{ image: { wrapper: 'aspect-[2/3]' } }"
         />
       </UBlogList>
+
+      <ULandingSection
+        class="pt-12 sm:pt-24 pb-0 sm:pb-0"
+        title="OUR PARTNERS"
+      />
+
       <ULandingLogos
         class="mt-32"
-        title="Production partners"
+        title="Productions"
         align="center"
       >
         <NuxtImg
-          v-for="production in productions"
+          v-for="production in productions.slice(0, 6)"
           :key="production.src"
           :src="production.src"
           :alt="production.alt"
-          width="50"
+          width="150"
         />
       </ULandingLogos>
+
+      <ULandingLogos>
+        <NuxtImg
+          v-for="production in productions.slice(6)"
+          :key="production.src"
+          :src="production.src"
+          :alt="production.alt"
+          width="150"
+        />
+      </ULandingLogos>
+
       <ULandingLogos
         class="mt-32"
-        title="Broadcasters partners"
+        title="Broadcasters & Plateforms"
         align="center"
       >
         <NuxtImg
-          v-for="broadcaster in broadcasters"
+          v-for="broadcaster in broadcasters.slice(0, 5)"
           :key="broadcaster.src"
           :src="broadcaster.src"
           :alt="broadcaster.alt"
-          width="50"
+          width="150"
+        />
+      </ULandingLogos>
+
+      <ULandingLogos>
+        <NuxtImg
+          v-for="broadcaster in broadcasters.slice(5, 10)"
+          :key="broadcaster.src"
+          :src="broadcaster.src"
+          :alt="broadcaster.alt"
+          width="150"
+        />
+      </ULandingLogos>
+
+      <ULandingLogos>
+        <NuxtImg
+          v-for="broadcaster in broadcasters.slice(10)"
+          :key="broadcaster.src"
+          :src="broadcaster.src"
+          :alt="broadcaster.alt"
+          width="150"
         />
       </ULandingLogos>
     </UPageBody>

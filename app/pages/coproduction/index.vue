@@ -38,8 +38,6 @@ useSeoMeta({
           :date="new Date(post.date).toLocaleDateString('en', { year: 'numeric', month: 'short', day: 'numeric' })"
           :authors="post.directors"
           :badge="post.badge"
-          :orientation="index === 0 ? 'horizontal' : 'vertical'"
-          :class="[index === 0 && 'col-span-full']"
           :ui="{
             description: 'line-clamp-2'
           }"
