@@ -1,0 +1,1 @@
+import{k as a,c as s,e as r,ac as t}from"./CQqvmZfa.js";const c={};function n(e,o){return r(),s("table",null,[t(e.$slots,"default")])}const _=Object.assign(a(c,[["render",n]]),{__name:"ProseTable"});export{_ as default};
