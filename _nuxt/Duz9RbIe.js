@@ -1,1 +1,0 @@
-import{k as s,c as r,e as t,ac as c}from"./C8k-nlHl.js";const n={};function o(e,a){return t(),r("th",null,[c(e.$slots,"default")])}const _=Object.assign(s(n,[["render",o]]),{__name:"ProseTh"});export{_ as default};
