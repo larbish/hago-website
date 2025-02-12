@@ -1,0 +1,1 @@
+import{k as r,c as s,e as t,ac as c}from"./BRZkjmaf.js";const n={};function o(e,a){return t(),s("tr",null,[c(e.$slots,"default")])}const _=Object.assign(r(n,[["render",o]]),{__name:"ProseTr"});export{_ as default};
